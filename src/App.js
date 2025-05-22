@@ -381,10 +381,8 @@ function App() {
   };
 
   const quickQuestions = [
-    "What are the admission requirements?",
-    "Tell me about scholarships",
-    "How do I register for classes?",
-    "What programs do you offer?"
+    "What are the importance of the API's in modern software development?",
+    "Tell me about version control"
   ];
 
   const appStyle = {
